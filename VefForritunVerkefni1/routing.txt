@@ -1,0 +1,2 @@
+Routing er ferlið sem meðhöndlar hvert öll IP traffík fer.
+Routing er mjög nauðsynlegt til að öll veftraffík rennur vel.
