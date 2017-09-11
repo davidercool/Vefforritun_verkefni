@@ -1,0 +1,47 @@
+body {
+    color:black;
+    margin: auto;
+
+}
+.background-image {
+    background-image: url(pokemon.png);
+    filter: blur(2px);
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.flexit {
+    display:flex;
+    flex-direction: row;
+}
+h2 {
+    text-align: center;
+    padding-right:5em;
+    padding-left:5em;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.content {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.bottomtext {
+    margin-top: 4.5em;
+}
+
+.bottomtext2 {
+    margin-top: -1em;
+}
