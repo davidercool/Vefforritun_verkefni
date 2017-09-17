@@ -1,0 +1,22 @@
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    margin-bottom:1em;
+}
+.margin {
+    margin-right:2em;
+}
+.minusmargin {
+    margin-top: -1em;
+}
+
+body {
+    background-color: black;
+    color: blue;
+    max-width: 60em;
+    margin: auto;
+}
+.center {
+    text-align: center;
+}
