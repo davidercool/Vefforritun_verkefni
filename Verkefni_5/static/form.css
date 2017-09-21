@@ -1,0 +1,15 @@
+body {
+    background-image: url(background.jpg);
+    max-width: 20em;
+    margin: auto;
+    text-align: center;
+}
+
+@font-face {
+    font-family: "dominos";
+    src: url("fonts/dominospizza.woff") format('woff');
+}
+
+.dominosfont {
+    font-family: dominos;
+}
